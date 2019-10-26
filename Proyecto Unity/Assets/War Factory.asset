@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e943c5c43effbd4bbf3b819d7f57a3c, type: 3}
+  m_Name: War Factory
+  m_EditorClassIdentifier: 
+  missilePrefab: {fileID: 5089126638374416617, guid: 722d923a98f26504a8af4f8c7136c45f,
+    type: 3}
+  bulletPrefab: {fileID: 7754994545248408581, guid: 38250730178cae14d9e3739fbb139dd8,
+    type: 3}
+  explosionPrefab: {fileID: 6783549825781169399, guid: 6cc82d6164170194594faf23ff4000bb,
+    type: 3}
