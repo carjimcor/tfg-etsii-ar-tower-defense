@@ -3,7 +3,9 @@
 Final degree project from the Software Engineer Degree at ETSII - Seville.
 
 Unity version: 2019.1.10f1.
+
 Augmented Reality with Vuforia.
+
 Built and tested for Android only.
 
 Tower Defense mechanics and style based on the mobile game **Geo-Defense Swarm** by Critical Thought Games.
